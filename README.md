@@ -12,7 +12,8 @@ A Python automation script designed to overcome the limitations of `pyautogui` i
 
 1. Ensure you have `pydirectinput`, `numpy`, and `pywin32` installed.
 2. Save the script as a `.py` file.
-3. Run the script with administrator privileges and use the mouse side button or Shift key to trigger the recoil operation.
+3. **Run the script with administrator privileges** to enable the script's functionality.
+4. Use the mouse side button or Shift key to **trigger the simulated rapid mouse clicking operation**.
 
 ## Dependencies
 
